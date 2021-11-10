@@ -10,7 +10,7 @@ namespace whileornek
     {
         static void Main(string[] args)
         {
-            
+            //cagıl alsac
 
         }
     }
